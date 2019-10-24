@@ -1,0 +1,71 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  OBJECTID: 1
+  created_user: MyText
+  created_date: 
+  last_edited_user: MyText
+  last_edited_date: 2019-10-24 09:44:07
+  SEC_NAME: MyText
+  COLLECT_DAY: MyText
+  QUAD: MyText
+  HELP_SECTION: 1
+  RECY_QUAD: MyText
+  RECY_COLLECT_DAY: MyText
+  RECY_SEC_NAME: MyText
+  HVY_TRSH_SEC_NAME: MyText
+  HVY_TRSH_COLLECT_DAY: MyText
+  HVY_TRSH_QUAD: MyText
+  LIFT_COUNT: 1
+  SERV_TYPE: MyText
+  STREET_NUM: 1
+  FRACTION: MyText
+  PREFIX: MyText
+  STREET_NAME: MyText
+  SUFFIX: MyText
+  STREET_TYPE: MyText
+  STATE: MyText
+  CITY: MyText
+  ZIPCODE: MyText
+  X_COORD: 1
+  Y_COORD: 1
+  DESCR: MyText
+  latitude: 9.99
+  longitude: 9.99
+  Customer_ID: 1
+  GlobalID: MyText
+
+two:
+  OBJECTID: 1
+  created_user: MyText
+  created_date: 
+  last_edited_user: MyText
+  last_edited_date: 2019-10-24 09:44:07
+  SEC_NAME: MyText
+  COLLECT_DAY: MyText
+  QUAD: MyText
+  HELP_SECTION: 1
+  RECY_QUAD: MyText
+  RECY_COLLECT_DAY: MyText
+  RECY_SEC_NAME: MyText
+  HVY_TRSH_SEC_NAME: MyText
+  HVY_TRSH_COLLECT_DAY: MyText
+  HVY_TRSH_QUAD: MyText
+  LIFT_COUNT: 1
+  SERV_TYPE: MyText
+  STREET_NUM: 1
+  FRACTION: MyText
+  PREFIX: MyText
+  STREET_NAME: MyText
+  SUFFIX: MyText
+  STREET_TYPE: MyText
+  STATE: MyText
+  CITY: MyText
+  ZIPCODE: MyText
+  X_COORD: 1
+  Y_COORD: 1
+  DESCR: MyText
+  latitude: 9.99
+  longitude: 9.99
+  Customer_ID: 1
+  GlobalID: MyText
